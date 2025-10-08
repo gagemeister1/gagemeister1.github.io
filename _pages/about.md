@@ -9,6 +9,7 @@ redirect_from:
 
 Hi! My name is Sam and I am a Computer Science student with the University of Louisville! In my work I have utilized data analytics for many different topics, and im excited to continue with my skills in various new applications!
 
-2025               |  2022
-:-------------------------:|:-------------------------:
-![](IMG_4462.png)  |  ![](IMG_4862.png)
+<p float="middle">
+  <img src="/IMG_4462.png" width="100" />
+  <img src="/IMG_4862.png" width="100" /> 
+</p>
