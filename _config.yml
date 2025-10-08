@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "1690329378332.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Samuel Edgmon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Science Student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Louisville"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -48,8 +48,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "gagemeister1"
-  kaggle           : "gage edgmon"  
+  github           : https://github.com/gagemeister1
+  kaggle           : https://www.kaggle.com/gageedgmon  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/samuel-edgmon-91b952258/"
+  linkedin         : https://www.linkedin.com/in/samuel-edgmon-91b952258/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
