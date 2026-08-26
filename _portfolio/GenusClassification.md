@@ -32,6 +32,10 @@ The project consisted of three main steps in the pipeline:
   <li>Model Creation: Hyperparameter tuning Random Forest models and engineering new features based on variables with the most importance to increase model performance and prunce irrelevant features.</li>
 </ol>
 
+This project had nearly 1300 tree records, with the most recent dataset being 2million pixel records~ by 343 features. This amount of data required the usage of specific packages to speed up calculations and designed batching to maintain enough memory for the full pipeline.
+
+
+
 
 
 
